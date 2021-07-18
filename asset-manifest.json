@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/frontend-challenge/static/js/main.c9222af4.chunk.js",
-    "main.js.map": "/frontend-challenge/static/js/main.c9222af4.chunk.js.map",
+    "main.js": "/frontend-challenge/static/js/main.cefbc262.chunk.js",
+    "main.js.map": "/frontend-challenge/static/js/main.cefbc262.chunk.js.map",
     "runtime-main.js": "/frontend-challenge/static/js/runtime-main.1db9a61f.js",
     "runtime-main.js.map": "/frontend-challenge/static/js/runtime-main.1db9a61f.js.map",
     "static/js/2.aa1d38d4.chunk.js": "/frontend-challenge/static/js/2.aa1d38d4.chunk.js",
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.1db9a61f.js",
     "static/js/2.aa1d38d4.chunk.js",
-    "static/js/main.c9222af4.chunk.js"
+    "static/js/main.cefbc262.chunk.js"
   ]
 }
