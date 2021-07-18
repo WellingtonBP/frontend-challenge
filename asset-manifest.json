@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/frontend-challenge/static/js/main.fd912d66.chunk.js",
+    "main.js.map": "/frontend-challenge/static/js/main.fd912d66.chunk.js.map",
+    "runtime-main.js": "/frontend-challenge/static/js/runtime-main.1db9a61f.js",
+    "runtime-main.js.map": "/frontend-challenge/static/js/runtime-main.1db9a61f.js.map",
+    "static/js/2.aa1d38d4.chunk.js": "/frontend-challenge/static/js/2.aa1d38d4.chunk.js",
+    "static/js/2.aa1d38d4.chunk.js.map": "/frontend-challenge/static/js/2.aa1d38d4.chunk.js.map",
+    "index.html": "/frontend-challenge/index.html",
+    "static/js/2.aa1d38d4.chunk.js.LICENSE.txt": "/frontend-challenge/static/js/2.aa1d38d4.chunk.js.LICENSE.txt",
+    "static/media/arrowIcon.cdfb99c1.svg": "/frontend-challenge/static/media/arrowIcon.cdfb99c1.svg",
+    "static/media/pokedexIcon.16075dc5.svg": "/frontend-challenge/static/media/pokedexIcon.16075dc5.svg",
+    "static/media/searchIcon.244cbf07.svg": "/frontend-challenge/static/media/searchIcon.244cbf07.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1db9a61f.js",
+    "static/js/2.aa1d38d4.chunk.js",
+    "static/js/main.fd912d66.chunk.js"
+  ]
+}
